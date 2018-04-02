@@ -1,4 +1,8 @@
+
 {
+   "name": "xploit/btctool",
+   "type": "library",
+   "license": "MIT",
   "autoload": {
     "psr-4": {
       "Afk11\\Btctool\\": "src/"
